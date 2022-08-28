@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Aneesh+K+B;DevOps+Engineer+👨🏻‍💼;Passionate+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%232671E5.svg&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Aneesh+K+B;DevOps+Engineer+👨🏻‍💼;Passionate+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 <br>
 <hr>
@@ -83,7 +83,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF9900&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
 </p>
 
 <br>
@@ -95,7 +95,7 @@
 <p align="center">
 <a href="mailto:aneeshawaits@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aneesh-kb-95172990"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.instagram.com/yousafkhamza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/yousafkhama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://wa.me/%2B917736494224?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </a></p>
 </div>
