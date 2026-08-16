@@ -28,7 +28,7 @@
         - AWS Cloud
     - Operating Systems:
         - RedHat Linux Release 6.x, 7.x
-        - Ubuntu 18.04, 20.04, 22.02
+        - Ubuntu 18.04, 20.04, 22.02, 24.02
         - CentOS 6.x, 7.x
         - Kali Linux 2018-4, 2020-2
         - Windows Server 2008, 2012, 2016, 2019
@@ -45,10 +45,12 @@
     - Source Code Management/Version Control:
         - Git (GitHub, GitLab)
     - Continuous Integeration/Continuous Deployment:
-        - Jenkins
         - GitHub Actions
+        - Jenkins
         - GitLab
     - Containerization:
+        - Kubernetes
+        - AKS
         - Docker
         - ECS
     - Database Management Systems:
@@ -64,7 +66,7 @@
         - Grafana
         - Nagios
         - Zabbix
-        - PRTG
+        - Dynatrace
     - Certifications:
         - RedHat Certified System Administrator (RedHat Certified)
         - Redhat Certified Systems Engineer (RedHat Certified)
