@@ -25,7 +25,26 @@
   hosts: GitHub
   become: true
     - Cloud platform:
-        - AWS Cloud
+        - AWS
+        - Azure
+    - Containerization:
+        - Kubernetes
+        - AKS
+        - Docker
+        - ECS
+    - GitOps and Package Management
+        - Helm
+        - ArgoCD
+    - Infrastructure As a Code:
+        - Terraform
+        - Ansible
+    - Continuous Integration/Continuous Deployment:
+        - GitHub Actions
+        - Jenkins
+        - GitLab
+    - Data Engineering and Analytics
+        - Databricks
+        - Azure Synapse
     - Operating Systems:
         - RedHat Linux Release 6.x, 7.x
         - Ubuntu 18.04, 20.04, 22.02, 24.02
@@ -35,24 +54,12 @@
     - Scripting Languages:
         - Bash
         - Python    
-    - Infrastucture As a Code:
-        - Terraform
-        - Ansible
     - Software Provisioning/Configuration Management:
         - Ansible
     - Machine Image As a Code: 
         - Packer
     - Source Code Management/Version Control:
         - Git (GitHub, GitLab)
-    - Continuous Integeration/Continuous Deployment:
-        - GitHub Actions
-        - Jenkins
-        - GitLab
-    - Containerization:
-        - Kubernetes
-        - AKS
-        - Docker
-        - ECS
     - Database Management Systems:
         - Microsoft SQL Server
         - MySQL
